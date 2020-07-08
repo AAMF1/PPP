@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexandre/Desktop/PPP/estruturas.h
+
+C:/Users/Alexandre/Desktop/PPP/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+estruturas.h
+C:/Users/Alexandre/Desktop/PPP/estruturas.h
+

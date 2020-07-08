@@ -1,0 +1,22 @@
+Alex
+Morada
+1/03/1998
+96326513
+NULL
+0
+
+Guilherme
+Morada
+14/03/1998
+915829622
+NULL
+1
+Local 1
+
+Rocha
+askdh
+18/18/1999
+919711162
+NULL
+0
+
